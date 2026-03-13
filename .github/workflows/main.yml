@@ -8,7 +8,7 @@ on:
         required: true
         default: 'tambom'
       agent_description:
-        description: 'tambomk'
+        description: 'tambom'
         required: true
         default: 'tambom AI Agent'
 
